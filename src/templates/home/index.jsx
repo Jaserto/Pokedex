@@ -10,7 +10,7 @@ import { Cards } from "../../componentes/Cards";
 
 
 const Home = () => {
-    document.title = "Pokédex - Jos3s";
+    document.title = "Pokédex - Jaserto";
     
     const localTheme = getLocalTheme();
   
